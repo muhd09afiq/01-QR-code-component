@@ -19,3 +19,22 @@ img {
     width: 25rem;
     padding: 3rem;
 }
+
+.primary, .secondary{
+    font-family: 'Outfit';
+    text-align: center;
+}
+
+.primary{
+    font-weight: 700;
+    font-size: 20   px;
+}
+
+.secondary{
+    font-weight: 400;
+    font-size: 15px;
+}
+
+.attribution{
+    padding-top: 20rem;
+}
