@@ -7,5 +7,15 @@ html {
 
 .container {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
+    background-color: white;
+    max-width: 30rem;
+    margin: auto;
+    align-items: center;
+    margin-top: 25rem;
+}
+
+img {
+    width: 25rem;
+    padding: 3rem;
 }
