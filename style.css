@@ -17,7 +17,8 @@ html {
 
 img {
     width: 25rem;
-    padding: 3rem;
+    height: auto;
+    padding: 1.3rem;
 }
 
 .primary, .secondary{
@@ -27,7 +28,9 @@ img {
 
 .primary{
     font-weight: 700;
-    font-size: 20   px;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .secondary{
